@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OXgame", "OXgame\OXgame.csproj", "{68F09932-8FA0-4ED8-9FA5-48C0AF1ED4C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68F09932-8FA0-4ED8-9FA5-48C0AF1ED4C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F09932-8FA0-4ED8-9FA5-48C0AF1ED4C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F09932-8FA0-4ED8-9FA5-48C0AF1ED4C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F09932-8FA0-4ED8-9FA5-48C0AF1ED4C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2711B4E-6F69-478C-B11B-CEC6C6E89FBB}
+	EndGlobalSection
+EndGlobal
